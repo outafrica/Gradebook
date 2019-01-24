@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gradebook.dir/main.cpp.o CMakeFiles/Gradebook.dir/gradebook.cpp.o  -o Gradebook 
